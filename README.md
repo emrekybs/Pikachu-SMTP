@@ -6,10 +6,9 @@ Brute force for SMTP users
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 
-    $ git clone https://github.com/emrekybs/Pikachu-SMTP.git
-    $ cd Pikachu-SMTP
-    $ chmod +x pikachu
-    
-    $ ./pikachu <target-ip> <wordlist>
+    $ git clone https://github.com/emrekybs/inctlnx.git
+    $ cd inctlnx
+
+    $ python3 inctlnx.py
 
 <img src="https://github.com/emrekybs/Pikachu-SMTP/blob/main/1.png">
