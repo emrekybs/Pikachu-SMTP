@@ -20,7 +20,7 @@ import threading
 
 
 
-golo = '''
+pikachu = '''
 	`;-.          ___,
   	`.`\_...._/`.-"`
     	\        /      ,
@@ -37,7 +37,7 @@ Pikachu   (_,'
 
       '''
 
-print(golo)
+print(pikachu)
 time.sleep(1)
 print(f"\n [{GREEN}+{WHITE}] {RED}Pikachu-SMTP{WHITE} starting!\n")
 
