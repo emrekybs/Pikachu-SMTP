@@ -11,11 +11,11 @@ Brute force for SMTP users
 
     $ python3 inctlnx.py
 
-    # Powershell-Pikachu
+    Powershell-Pikachu
     $ .\pikachu.ps1
 
     
     
-    .\pikachu.ps1
+
 
 <img src="https://github.com/emrekybs/Pikachu-SMTP/blob/main/1.png">
