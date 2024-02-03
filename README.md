@@ -1,4 +1,4 @@
-[![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-yellow)
+[![EmreKybs](https://img.shields.io/badge/MadeBy-Angelus-yellow)
 # Pikachu-SMTP
 Brute force for SMTP users
 
