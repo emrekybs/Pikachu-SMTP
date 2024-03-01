@@ -7,9 +7,9 @@ Brute force for SMTP users
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 
     $ git https://github.com/emrekybs/Pikachu-SMTP.git
-    $ cd inctlnx
+    $ cd Pikachu-SMTP
 
-    $ python3 inctlnx.py
+    $ ./pikachu
 
     Powershell-Pikachu
     $ .\pikachu.ps1
