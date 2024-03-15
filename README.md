@@ -6,7 +6,7 @@ Brute force for SMTP users
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 
-    $ git https://github.com/emrekybs/Pikachu-SMTP.git
+    $ git clone https://github.com/bloodbane0/Pikachu-SMTP.git
     $ cd Pikachu-SMTP
 
     $ ./pikachu
