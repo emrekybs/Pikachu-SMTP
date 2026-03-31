@@ -2,7 +2,7 @@
 # Pikachu-SMTP
 Brute force for SMTP users
 
-<img src="https://github.com/emrekybs/Pikachu-SMTP/blob/main/icegif-5810.gif">
+<img src="https://github.com/emrekybs/Pikachu-SMTP/blob/main/icegif-5810.gif" width="250">
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 
